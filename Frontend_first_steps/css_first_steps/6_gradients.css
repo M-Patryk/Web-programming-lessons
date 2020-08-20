@@ -1,0 +1,9 @@
+/* body{
+    background-image: linear-gradient(to right bottom, #1166f4, #c844cb, #ff338b, #ff604c, #eb9412);
+    
+} */
+
+body {
+    background-image: radial-gradient(circle, #1f6541, #007666, #008690, #0093ba,
+     #009ddd, #009adb, #0097d8, #0094d6, #0085b2, #00748d, #00626a, #07504c);
+}
